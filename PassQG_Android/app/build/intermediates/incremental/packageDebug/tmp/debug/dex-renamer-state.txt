@@ -1,0 +1,10 @@
+#Thu Jun 12 05:02:56 GMT+08:00 2025
+base.2=C\:\\Users\\Administrator\\AndroidStudioProjects\\PassQG\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+path.2=14/classes.dex
+base.1=C\:\\Users\\Administrator\\AndroidStudioProjects\\PassQG\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+path.1=0/classes.dex
+base.0=C\:\\Users\\Administrator\\AndroidStudioProjects\\PassQG\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
